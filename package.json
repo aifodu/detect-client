@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/aifodu/detect-client#readme",
   "dependencies": {
-    "ua-parser-js": "^0.7.21"
+    "ua-parser-js": "^0.7.24"
   }
 }
